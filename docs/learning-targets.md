@@ -6,8 +6,8 @@ layout: tabbed-assignment
 
 I can:
 
-* 
-* 
+* Make a plan for completing a long term task.
+* Set milestones to help evaluate progress towards my goal.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
